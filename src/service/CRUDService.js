@@ -30,5 +30,5 @@ let createGetData = () => {
 
 module.exports = {
     createUserService: createUserService,
-    createGetData: createGetData,
+    createGetData: createGetData
 }
